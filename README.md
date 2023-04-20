@@ -71,6 +71,7 @@
 <p>
 <a href="#"><img align="right" width="300" src="https://github-contribution-stats.vercel.app/api/?username=sllozier" alt="contribution stats"/></a>
 
+<!--START_SECTION:activity-->
 
 </p>
 </details>
