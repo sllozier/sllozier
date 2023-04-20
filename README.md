@@ -81,7 +81,7 @@
 5. ❗️ Opened issue [#1](https://github.com/sllozier/lozier-school-management/issues/1) in [sllozier/lozier-school-management](https://github.com/sllozier/lozier-school-management)
 <!--END_SECTION:activity-->
 
-➡️  **[More Activity](/RECENT-ACTIVITY.md)**
+➡️  **[More Activity](./RECENT_ACTIVITY.md)**
 </p>
 </details>
 
