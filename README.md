@@ -81,11 +81,10 @@
 5. ❗️ Opened issue [#1](https://github.com/sllozier/lozier-school-management/issues/1) in [sllozier/lozier-school-management](https://github.com/sllozier/lozier-school-management)
 <!--END_SECTION:activity-->
 
-
+➡️  **[More Activity](/RECENT-ACTIVITY.md)**
 </p>
 </details>
 
-➡️  **[More Activity](/RECENT-ACTIVITY.md)**
 <!---
 sllozier/sllozier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
