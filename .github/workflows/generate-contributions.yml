@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: 💠 3D Contributions
 
 on:
   schedule: 03:00 JST == 18:00 UTC
@@ -20,5 +20,5 @@ jobs:
           git config user.name sllozier
           git config user.email sarah.lozier@gmail.com
           git add -A .
-          git commit -m "Update 3D contributions"
+          git commit -m "Update 💠 3D Contributions"
           git push
