@@ -21,25 +21,25 @@ This 3D chart and metrics were generated using <a href="https://github.com/yoshi
 
 ### My Stats
 
-[<img align="left" width="400" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/habits.svg">][code-stats]
-[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/discussions.svg">](#)
+[<img align="left" width="400" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/habits.svg">][code-stats]
+[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/discussions.svg">](#)
 
 
-[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/gists.svg">][gists]
-[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/repositories.svg">][repositories]
+[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/gists.svg">][gists]
+[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/repositories.svg">][repositories]
 
-[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/sponsors.svg">][sponsors]
-[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/people.svg">][followers]
-[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/notable.svg">](#)
+[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/sponsors.svg">][sponsors]
+[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/people.svg">][followers]
+[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/notable.svg">](#)
 
-[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/activity.svg">][activity]
-[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/languages.svg">][language-stats]
+[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/activity.svg">][activity]
+[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/languages.svg">][language-stats]
 
-[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/contributions.svg">](#)
-[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/achievements.svg">][achievements]
+[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/contributions.svg">](#)
+[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/achievements.svg">][achievements]
 
-[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/topics.svg">][starlist]
-[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/master/assets/metrics/starlists.svg">][starlist]
+[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/topics.svg">][starlist]
+[<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/starlists.svg">][starlist]
 
 <!-- Links within repo -->
 [activity]: /RECENT-ACTIVITY.md "Recent Activity"
