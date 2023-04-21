@@ -48,7 +48,7 @@ jobs:
           base: ""
           config_timezone: America/New_York
           plugin_calendar: yes
-          plugin_calendar_limit: 10
+          plugin_calendar_limit: 2
 
   # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
