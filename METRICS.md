@@ -33,7 +33,7 @@ This 3D chart and metrics were generated using <a href="https://github.com/yoshi
 [<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/notable.svg">](#)
 
 [<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/activity.svg">][activity]
-[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/languages.svg">][language-stats]
+[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/languages.svg">](#)
 
 [<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/contributions.svg">](#)
 [<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/achievements.svg">](#)
