@@ -65,6 +65,19 @@
 </p>
 </details>
 
+<!-- Metrics -->
+<details>
+  <summary><b>📊 Metrics</b></summary>
+    <p>
+
+| [![General Stats](https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/summary.svg)](https://github.com/sllozier/sllozier/blob/main/METRICS.md) | - |
+| - | - |
+
+**[➡️ More Metrics](./METRICS.md)**
+
+</p>
+</details>
+
 <!-- Recent Activity -->
 <details>
 <summary><b>✨ Recent Activity</b></summary>
