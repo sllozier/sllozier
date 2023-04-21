@@ -21,7 +21,7 @@ This 3D chart and metrics were generated using <a href="https://github.com/yoshi
 
 ### My Stats
 
-[<img align="left" width="400" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/habits.svg">][code-stats]
+[<img align="left" width="400" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/habits.svg">](#)
 [<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/discussions.svg">](#)
 
 
@@ -36,7 +36,7 @@ This 3D chart and metrics were generated using <a href="https://github.com/yoshi
 [<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/languages.svg">][language-stats]
 
 [<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/contributions.svg">](#)
-[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/achievements.svg">][achievements]
+[<img align="right" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/achievements.svg">](#)
 
 [<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/topics.svg">][starlist]
 [<img align="left" width="450" alt="🦙" src="https://raw.githubusercontent.com/sllozier/sllozier/main/assets/metrics/starlists.svg">][starlist]
