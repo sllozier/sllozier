@@ -87,11 +87,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/sllozier/bookshelf-app/issues/1) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
-2. 🗣 Commented on [#1](https://github.com/sllozier/bookshelf-app/issues/1) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
-3. 🗣 Commented on [#2](https://github.com/sllozier/bookshelf-app/issues/2) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
-4. ❗️ Closed issue [#2](https://github.com/sllozier/bookshelf-app/issues/2) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
-5. ❗️ Opened issue [#1](https://github.com/sllozier/sarah-loziers-portfolio/issues/1) in [sllozier/sarah-loziers-portfolio](https://github.com/sllozier/sarah-loziers-portfolio)
+1. ❗️ Opened issue [#15](https://github.com/SoMainline/linux-apple-resources/issues/15) in [SoMainline/linux-apple-resources](https://github.com/SoMainline/linux-apple-resources)
+2. ❗️ Closed issue [#1](https://github.com/sllozier/bookshelf-app/issues/1) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
+3. 🗣 Commented on [#1](https://github.com/sllozier/bookshelf-app/issues/1) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
+4. 🗣 Commented on [#2](https://github.com/sllozier/bookshelf-app/issues/2) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
+5. ❗️ Closed issue [#2](https://github.com/sllozier/bookshelf-app/issues/2) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](./RECENT_ACTIVITY.md)**
