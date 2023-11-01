@@ -39,7 +39,7 @@
 
 ---
 
-</p>#764ABC
+</p>
 </details>
 
 <!-- Tech Stack -->
