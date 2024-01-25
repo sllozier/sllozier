@@ -33,7 +33,7 @@
 
  When I am not learning new tech, teaching future engineers or building applications, you will find me camping 🏕, fishing 🎣 or hiking 🥾 with my sweet family 👨‍👩‍👧‍👦.
 
- I bring drive, curiousity and compassion I bring to everything I do!
+ I bring drive, curiosity, and compassion to everything I do!
 
 </blockquote>
 
