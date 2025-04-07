@@ -6,9 +6,9 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/sllozier/cmsc215_project2/issues/4) in [sllozier/cmsc215_project2](https://github.com/sllozier/cmsc215_project2)
-2. ❗️ Opened issue [#3](https://github.com/sllozier/cmsc215_project2/issues/3) in [sllozier/cmsc215_project2](https://github.com/sllozier/cmsc215_project2)
-3. ❗️ Opened issue [#2](https://github.com/sllozier/cmsc215_project2/issues/2) in [sllozier/cmsc215_project2](https://github.com/sllozier/cmsc215_project2)
-4. ❗️ Opened issue [#1](https://github.com/sllozier/cmsc215_project2/issues/1) in [sllozier/cmsc215_project2](https://github.com/sllozier/cmsc215_project2)
-5. ❗️ Closed issue [#2](https://github.com/sllozier/bookshelf-app/issues/2) in [sllozier/bookshelf-app](https://github.com/sllozier/bookshelf-app)
+1. 🗣 Commented on [#11](https://github.com/CMSC495-Group2/cash_control/issues/11) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+2. ❌ Closed PR [#11](https://github.com/CMSC495-Group2/cash_control/pull/11) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+3. 🎉 Merged PR [#14](https://github.com/CMSC495-Group2/cash_control/pull/14) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+4. 💪 Opened PR [#14](https://github.com/CMSC495-Group2/cash_control/pull/14) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+5. ❌ Closed PR [#10](https://github.com/CMSC495-Group2/cash_control/pull/10) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
 <!--END_SECTION:activity-->
