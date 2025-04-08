@@ -87,11 +87,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/CMSC495-Group2/cash_control/issues/11) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
-2. ❌ Closed PR [#11](https://github.com/CMSC495-Group2/cash_control/pull/11) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
-3. 🎉 Merged PR [#14](https://github.com/CMSC495-Group2/cash_control/pull/14) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
-4. 💪 Opened PR [#14](https://github.com/CMSC495-Group2/cash_control/pull/14) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
-5. ❌ Closed PR [#10](https://github.com/CMSC495-Group2/cash_control/pull/10) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+1. 🎉 Merged PR [#16](https://github.com/CMSC495-Group2/cash_control/pull/16) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+2. 💪 Opened PR [#16](https://github.com/CMSC495-Group2/cash_control/pull/16) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+3. 🎉 Merged PR [#12](https://github.com/CMSC495-Group2/cash_control/pull/12) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+4. 🎉 Merged PR [#15](https://github.com/CMSC495-Group2/cash_control/pull/15) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+5. 💪 Opened PR [#15](https://github.com/CMSC495-Group2/cash_control/pull/15) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](./RECENT_ACTIVITY.md)**
