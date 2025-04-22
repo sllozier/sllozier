@@ -6,9 +6,9 @@
 </a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/CMSC495-Group2/cash_control/pull/17) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
-2. 💪 Opened PR [#17](https://github.com/CMSC495-Group2/cash_control/pull/17) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
-3. 🎉 Merged PR [#16](https://github.com/CMSC495-Group2/cash_control/pull/16) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
-4. 💪 Opened PR [#16](https://github.com/CMSC495-Group2/cash_control/pull/16) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
-5. 🎉 Merged PR [#12](https://github.com/CMSC495-Group2/cash_control/pull/12) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+1. 🎉 Merged PR [#21](https://github.com/CMSC495-Group2/cash_control/pull/21) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+2. 🎉 Merged PR [#20](https://github.com/CMSC495-Group2/cash_control/pull/20) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+3. 🎉 Merged PR [#19](https://github.com/CMSC495-Group2/cash_control/pull/19) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+4. 🎉 Merged PR [#18](https://github.com/CMSC495-Group2/cash_control/pull/18) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
+5. 🎉 Merged PR [#17](https://github.com/CMSC495-Group2/cash_control/pull/17) in [CMSC495-Group2/cash_control](https://github.com/CMSC495-Group2/cash_control)
 <!--END_SECTION:activity-->
